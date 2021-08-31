@@ -14,4 +14,15 @@ namespace MyFirstGitHubClassRoomConsoleApp
             //se herefter på dit GitHub Classroom repo om ændringen er kommet op 
         }
     }
+
+    class Demo
+    {
+        public int AgeOfMonkey { get; set; }
+        public int MonkeyName { get; set; }
+
+        public Demo()
+        {
+
+        }
+    }
 }
